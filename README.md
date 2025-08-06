@@ -11,5 +11,8 @@ A simple and elegant task management (To-Do) application built using Flutter. Th
 - 📊 Track task progress
 - 🎨 Clean and modern UI
 - 📱 Built with Flutter and Provider state management
+-
+-  ##This project is a part of a hackathon run by 
+https://www.katomaran.com 
 
 
